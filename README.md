@@ -1,6 +1,7 @@
 # ProgettoDiGruppoRistorante
-<p> # Obiettivo: Creare una classe Ristorante che permetta di gestire alcune funzionalità di base
-# Requisiti:
+<p>
+Obiettivo: Creare una classe Ristorante che permetta di gestire alcune funzionalità di base
+Requisiti:
  1. Definizione della Classe:
  - Creare una classe chiamata Ristorante.
  - La classe dovrebbe avere un costruttore __init__ che accetta due parametri: nome (nome del ristorante) e tipo cucina (tipo di cucina offerta).
